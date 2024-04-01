@@ -151,7 +151,7 @@ body {
      .google {
       background-image: url('google.jpeg');
       height: 115px;
-      width: 130px;
+      width: 160px;
       background-position: center;
       border-radius: 15px;
       border: none;
@@ -161,15 +161,20 @@ body {
 
      .cookie-clicker {
       background-image: url('cookie\ clicker\ \(1\).jpeg');
-      height: 118px;
-      width: 200px;
+      background-color: rgb(19, 17, 17);
+      height: 150px;
+      width: 160px;
       background-position: center;
       border-radius: 15px; 
       border: none;
       cursor: pointer;
       margin: 20px;
-      background-size: 199.9px;
+      background-size: 100px;
       background-repeat: no-repeat;
+      color: white;
+      padding-top: 124px;
+      font-size: 21px;
+      font-weight: bold;
    }
    
       .xbox-cloud-gaming {
@@ -185,60 +190,93 @@ body {
 
       .snow-rider {
          background-image: url('snow-rider.jpeg');
-         height: 118px;
-         width: 200px;
+          background-color: rgb(19, 17, 17);
+         height: 150px;
+         width: 160px;
          cursor: pointer;
          margin: 20px;
          background-position: center;
          border-radius: 15px;
          border: none;
-         background-size: 250px;
+         background-size: 150px;                                                                                             px;
+         background-repeat: no-repeat;
+         padding-top: 124px;
+         color: white;
+         font-size: 21px;
+         font-weight: bold;
       }
 
       .puzzel-game {
          background-image: url('2048.png');
-         width: 200px;
-         height: 118px;
+         width: 160px;
+         height: 150px;
          cursor: pointer;
          margin: 20px;
          background-position: center;
          border-radius: 15px;
          border: none;
+         background-color: rgb(19, 17, 17);
+         background-size: 100px;
+         background-repeat: no-repeat;
+         padding-top: 124px;
+         color: white;
+         font-size: 21px;
+         font-weight: bold;
+         
+
       }
       
       .lol {
          background-image: url('1v1.lol.png');
-         width: 200px; 
-         height: 118px;
+         width: 160px; 
+         height: 150px;
          cursor: pointer;
          margin: 20px;
          background-position: center;
          border-radius: 15px;
-         border: none; 
+         border: none;
+         background-size: 100px;
+         background-repeat: no-repeat;
+         background-color: rgb(19, 17, 17);
+         padding-top: 124px;
+         color: white;
+         font-size: 21px;
       }
 
       .crossy-road {
          background-image: url('crossy-road.jpg');
-         width: 200px;
-         height: 118px;
+         width: 160px;
+         height: 150px;
          cursor: pointer;
          margin: 20px;
          background-position: center;
          border-radius: 15px;
          border: none;
+         background-color: rgb(19, 17, 17);
+         background-size: 150px;
+         background-repeat: no-repeat;
+         padding-top: 124px;
+         color: white; 
+         font-weight: bold;
+         font-size: 21px;
       }
 
       .basketball-stars {
          background-image: url('basketball\ stars.jpg');
-         width: 215px;
-         height: 155px;
+         width: 175.49px;
+         height: 150px;
          cursor: pointer;
-         background-position: left;
          border-radius: 15px;
          border: none;
          margin: 20px;
-         background-size: 310px;
+         background-position: center;
+         background-size: 96px;
          background-repeat: no-repeat;
+         background-color: rgb(19, 17, 17);
+         padding-top: 124px;
+         color: white;
+         font-size: 21px;
+         font-weight: bold;
       }
 
       .home {
@@ -262,24 +300,38 @@ body {
       
       .basket-random {
          background-image: url('basket\ random.jpg');
-         width: 200px;
-         height: 155px;
+         width: 175px;
+         height: 150px;
          cursor: pointer;
          margin: 20px; 
          background-position: center;
          border-radius: 15px;
          border: none;
+         background-size: 100px;
+         background-repeat: no-repeat; 
+         background-color: rgb(19, 17, 17);
+         padding-top: 124px;
+         color: white;
+         font-size: 21px;
+         font-weight: bold;
       }
 
       .soccer-random {
          background-image: url('soccer\ random.jpg');
-         width: 200px;
-         height: 155px;
+         width: 172px;
+         height: 150px;
          background-position: center;
          border-radius: 15px;         
          cursor: pointer;
          margin: 20px;
          border: none;
+         background-size: 108px;
+         background-repeat: no-repeat;
+         background-color: rgb(19, 17, 17);
+         padding-top: 124px;
+         color: white;
+         font-size: 21px;
+         font-weight: bold;
       }
 
       .about-blank {
@@ -303,15 +355,20 @@ body {
 
       .boxing-random {
          background-image: url('boxing\ random.jpg');
-         width: 205px;
-         height: 155px;
+         width: 173px;
+         height: 150px;
          border-radius: 15px;
          border: none;
          background-position: center;
          cursor: pointer;
          margin: 20px;
-         background-size: 207px;
+         background-size: 135px;
          background-repeat: no-repeat;
+         background-color: rgb(19, 17, 17);
+         padding-top: 124px;
+         color: white;
+         font-size: 21px;
+         font-weight: bold;
       }
 
 
