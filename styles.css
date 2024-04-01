@@ -406,4 +406,20 @@ body {
          font-weight: bold;
       }
 
+      .drift-boss {
+         Background-image: url('drift\ boss.png');
+         width: 160px;
+         height: 150px;
+         background-position: center;
+         border-radius: 15px;
+         background-color: rgb(19, 17, 17);
+         background-size: 100px;
+         background-repeat: no-repeat;
+         border: none;
+         padding-top: 124px;
+         margin: 20px;
+         color: white;
+         font-weight: bold;
+         font-size: 21px;
+      }
 
