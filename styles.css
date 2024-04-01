@@ -371,4 +371,23 @@ body {
          font-weight: bold;
       }
 
+      .retro-bowl {
+         background-image: url('retro\ bowl.png');
+         width: 160px;
+         height: 150px;
+         cursor: pointer;
+         border: none;
+         background-position: center;
+         background-size: 100px;
+         background-repeat: no-repeat;
+         background-color: rgb(19, 17, 17);
+         padding-top: 124px;
+         font-size: 21px;
+         color: white;
+         font-weight: bold;
+         border-radius: 15px;
+         margin: 20px;
+      }
+      
+
 
