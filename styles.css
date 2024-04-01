@@ -389,5 +389,21 @@ body {
          margin: 20px;
       }
       
+      .Bitlife {
+         background-image: url('Bitlife.jpg');
+         width: 160px;
+         height: 150px;
+         background-position: center;
+         background-size: 100px;
+         background-repeat: no-repeat;
+         border-radius: 15px;
+         background-color: rgb(19, 17, 17);
+         border: none;
+         font-size: 21px;
+         color: white; 
+         padding-top: 124px;
+         margin: 20px;
+         font-weight: bold;
+      }
 
 
