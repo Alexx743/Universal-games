@@ -159,6 +159,8 @@ body {
       margin: 20px;
      }
 
+     
+
      .cookie-clicker {
       background-image: url('cookie\ clicker\ \(1\).jpeg');
       background-color: rgb(19, 17, 17);
@@ -353,7 +355,7 @@ body {
 
       .boxing-random {
          background-image: url('boxing\ random.jpg');
-         width: 173px;
+         width: 175px;
          height: 150px;
          border-radius: 15px;
          border: none;
@@ -372,7 +374,7 @@ body {
       .retro-bowl {
          background-image: url('retro\ bowl.png');
          width: 160px;
-         height: 150px;
+         height: 150h;
          cursor: pointer;
          border: none;
          background-position: center;
@@ -402,6 +404,11 @@ body {
          padding-top: 124px;
          margin: 20px;
          font-weight: bold;
+         cursor: pointer;
+      }
+
+      .p { 
+   
       }
 
       .drift-boss {
