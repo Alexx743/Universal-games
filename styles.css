@@ -263,7 +263,7 @@ body {
 
       .basketball-stars {
          background-image: url('basketball\ stars.jpg');
-         width: 175.49px;
+         width: 180px;
          height: 150px;
          cursor: pointer;
          border-radius: 15px;
@@ -318,7 +318,7 @@ body {
 
       .soccer-random {
          background-image: url('soccer\ random.jpg');
-         width: 172px;
+         width: 175px;
          height: 150px;
          background-position: center;
          border-radius: 15px;         
