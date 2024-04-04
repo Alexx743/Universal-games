@@ -429,3 +429,21 @@ body {
          border: none;
       }
 
+      .temple-run2 {
+         background-image: url('temple\ run2.jpg');
+         width: 160px;
+         height: 150px;
+         cursor: pointer;
+         background-position: center;
+         background-size: 100px;
+         background-repeat: no-repeat;
+         border-radius: 15px;
+         background-color: rgb(19, 17, 17);
+         border: none;
+         padding-top: 124px;
+         margin: 20px;
+         color: white;
+         font-size: 21px;
+         font-weight: bold;
+      }
+

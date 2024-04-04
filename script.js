@@ -11,3 +11,4 @@ function launchab() {
     tab.document.body.appendChild(iframe);
     window.parent.window.location.replace('https://google.com/')
 }
+
