@@ -64,48 +64,80 @@ body {
       position: absolute;
      }
 
-     .Spotify {
-        height: 115px;
-        width: 130px;
+     .Spotify{
+        height: 150px;
+        width: 160px;
         cursor: pointer;
         background-image: url('spotify.jpeg');
+        background-color: black;
         background-position: center;
         border-radius: 15px;
         border: none;
-        margin: 50px;
+        margin: 20px;
+        margin-top: 5vh;
+        margin-left: 5vh;
+        padding-top: 124px;
+        background-size: 180px;
+        background-repeat: no-repeat;
+        color: white;
+        font-size: 21px;
+        font-weight: bold;
      }
 
      .Youtube {
-        background-image: url('Youtube\ \(1\).png');
-        height: 115px;
-        width: 130px;
+        background-image: url('youtube.png');
+        height: 150px;
+        width: 160px;
         background-position: center;
         cursor: pointer;
         border-radius: 15px;
         border: none;
-        margin: 50px;
+        margin: 20px;
+        background-color: black;
+        background-size: 310px;
+        background-repeat: no-repeat;
+        padding-top: 124px;
+        color: white;
+        font-size: 21px;
+        font-weight: bold;
+
      }
 
      .Github {
         background-image: url('Github\ \(4\).png');
-        height: 110px; 
-        width: 123px;
+        background-color: black;
+        height: 150px; 
+        width: 160px;
         background-position: center;
         cursor: pointer;
         border-radius: 15px; 
         border: none; 
-        margin: 50px;
+        margin: 20px;
+        background-size: 100px;
+        background-repeat: no-repeat;
+        padding-top: 124px;
+        color: white;
+        font-size: 21px;
+        font-weight: bold;
      }
 
      .VScode {
-        background-image: url('VScode\ \(2\).jpeg');
-        width: 130px;
-        height: 115px;
+        background-image: url('vscode.png');
+        width: 160px;
+        height: 150px;
         background-position: center;
         cursor: pointer;
         border-radius: 15px;
         border: none;
-        margin: 50px;
+        margin: 20px;
+        background-color: black;
+        background-size: 100px;
+        background-repeat: no-repeat;
+        padding-top: 124px;
+        color: white;
+        font-size: 21px;
+        font-weight: bold;
+
      }
 
 
@@ -149,14 +181,21 @@ body {
      }
 
      .google {
-      background-image: url('google.jpeg');
-      height: 115px;
+      background-image: url('google.png');
+      background-color: black;
+      height: 150px;
       width: 160px;
       background-position: center;
       border-radius: 15px;
       border: none;
       cursor: pointer;
       margin: 20px;
+      background-size: 190px;
+      background-repeat: no-repeat;
+      padding-top: 124px;
+      color: white;
+      font-size: 21px;
+      font-weight: bold;
      }
 
      
@@ -180,14 +219,21 @@ body {
    }
    
       .xbox-cloud-gaming {
-         background-image: url(xbox\ cloud\ gaming\ .png);
-         height: 115px; 
-         width: 130px;
+         background-image: url('xbox\ cloud\ gaming.png');
+         height: 150px; 
+         width: 160px;
          background-position: center;
          border-radius: 15px;
          border: none;
          cursor: pointer;
-         margin: 50px;
+         margin: 20px;
+         background-color: black;
+         background-size: 100px;
+         background-repeat: no-repeat;
+         color: white;
+         padding-top: 124px;
+         font-weight: bold;
+         font-size: 21px;
       } 
 
       .snow-rider {
