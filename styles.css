@@ -453,10 +453,6 @@ body {
          cursor: pointer;
       }
 
-      .p { 
-   
-      }
-
       .drift-boss {
          Background-image: url('drift\ boss.png');
          width: 160px;
@@ -492,4 +488,24 @@ body {
          font-size: 21px;
          font-weight: bold;
       }
+
+      .ev-io {
+         background-image: url('ev-io.jpg');
+         width: 160px;
+         height: 150px;
+         border: none;
+         background-position: center;
+         background-size: 100px;
+         background-repeat: no-repeat;
+         background-color: rgb(19, 17, 17);
+         padding-top: 124px;
+         color: white;
+         font-size: 21px;
+         margin: 20px;
+         font-weight: bold;
+         cursor: pointer;
+         border-radius: 15px;
+      }
+
+      
 
